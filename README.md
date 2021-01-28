@@ -1,2 +1,0 @@
-# Robot-Maze
-Rotbot Maze
