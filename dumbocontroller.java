@@ -43,11 +43,6 @@ public class DumboController{
 
 		robot.face(direction); /* Face the robot in this direction */
 
-
-
-
-
-
 		for (int i = IRobot.AHEAD; i <= IRobot.LEFT; i ++){
 			if (robot.look(i) == IRobot.WALL){
 				walls = walls + 1;
